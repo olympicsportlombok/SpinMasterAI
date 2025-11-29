@@ -166,7 +166,7 @@ Updated the BLADE_DATABASE to include /5 in the Power and Control stats (e.g., "
 )
 
 # Model yang Anda gunakan di AI Studio
-MODEL_NAME = "gemini-2.5-flash" 
+MODEL_NAME = "gemini-2.0-flash" 
 
 
 ## 3. DESAIN ANTARMUKA STREAMLIT
